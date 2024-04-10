@@ -8,7 +8,7 @@
 
 Пример CRUD контроллера, взаимодействующего с поисковиковым движком Manticore Search.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=newsseacher)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=newsseacher)](https://github.com/Tkachenko-Ivan/newsseacher)
 
 Подрбнее о работе с поисковиком можно посмотреть на wiki-странице проекта: [Хватит ждать индексации: делаем данные доступными для поиска мгновенно на Manticore Search](https://github.com/Tkachenko-Ivan/newsseacher/wiki/Хватит-ждать-индексации:-делаем-данные-доступными-для-поиска-мгновенно-на-Manticore-Search).
 
@@ -17,7 +17,7 @@
 * [manticore-simple.conf](https://gist.github.com/Tkachenko-Ivan/9c8f8b5f98c80f902905b618878486ad#file-manticore-simple-conf) - конфигурация поисковика для поиска по заранее созданному индексу
 * [file-manticore-realtime-conf](https://gist.github.com/Tkachenko-Ivan/9c8f8b5f98c80f902905b618878486ad#file-manticore-realtime-conf) - конфигурация Manticore Search для обновления индекса в реальном времени
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9c8f8b5f98c80f902905b618878486ad)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9c8f8b5f98c80f902905b618878486ad)](https://gist.github.com/Tkachenko-Ivan/9c8f8b5f98c80f902905b618878486ad)
 
 ## graphhopper-reader-postgis
 
