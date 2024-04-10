@@ -2,6 +2,8 @@
 
 Опишу что есть в моём профиле на GitHub, может он будет чем-то полезен.
 
+* [newsseacher](https://github.com/Tkachenko-Ivan/newsseacher) - пример создания CRUD-контроллера для взаимодействия с поисковым движком. Подрбнее о работе с поисковиком можно посмотреть на wiki-странице проекта: https://github.com/[Хватит ждать индексации: делаем данные доступными для поиска мгновенно на Manticore Search](Tkachenko-Ivan/newsseacher/wiki/Хватит-ждать-индексации:-делаем-данные-доступными-для-поиска-мгновенно-на-Manticore-Search)
+
 * [graphhopper-reader-postgis](https://github.com/Tkachenko-Ivan/graphhopper-reader-postgis) - это клон репозитория [mbasa/graphhopper-reader-postgis](https://github.com/mbasa/graphhopper-reader-postgis), в котором я много всего переделал "под себя", но это частности, поэтому Pull Request делать не стал, для Pull Request, я сделал отдельный Fork [graphhopper-reader-postgis-fork](https://github.com/Tkachenko-Ivan/graphhopper-reader-postgis-fork). Fork сделал, а Pull Request - нет, но ничего, может ещё доберусь... Об этом репозитории написал публикацию [Как хранить сеть дорог в БД для построения маршрута?](https://habr.com/ru/articles/688556/). программа умеет считывать данные из некоторого источника и строить по ним граф дорог, для маршрутизации. Однако, помимо чтения эти данные необходимо как-то записывать, вторая часть моей публикации о том, как это сделать, а так же:
   * в Docker Hub: [road-data](https://hub.docker.com/r/tkachenkoivan/road-data) - образ с предзаполненной Базой Данных дорог, для тестирования маршрутизации и загрузки новых данных 
   * в GitHub Gist: [Сервис обработки новых данных](https://gist.github.com/Tkachenko-Ivan/c2418a09c887e0baa0a823944d76e343) - показан алгоритм обработки новой дороги в Базе Данных
