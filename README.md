@@ -21,10 +21,34 @@
 
 ## graphhopper-reader-postgis
 
-* [graphhopper-reader-postgis](https://github.com/Tkachenko-Ivan/graphhopper-reader-postgis) - это клон репозитория [mbasa/graphhopper-reader-postgis](https://github.com/mbasa/graphhopper-reader-postgis), в котором я много всего переделал "под себя", но это частности, поэтому Pull Request делать не стал, для Pull Request, я сделал отдельный Fork [graphhopper-reader-postgis-fork](https://github.com/Tkachenko-Ivan/graphhopper-reader-postgis-fork). Fork сделал, а Pull Request - нет, но ничего, может ещё доберусь... Об этом репозитории написал публикацию [Как хранить сеть дорог в БД для построения маршрута?](https://habr.com/ru/articles/688556/). программа умеет считывать данные из некоторого источника и строить по ним граф дорог, для маршрутизации. Однако, помимо чтения эти данные необходимо как-то записывать, вторая часть моей публикации о том, как это сделать, а так же:
-  * в Docker Hub: [road-data](https://hub.docker.com/r/tkachenkoivan/road-data) - образ с предзаполненной Базой Данных дорог, для тестирования маршрутизации и загрузки новых данных 
-  * в GitHub Gist: [Сервис обработки новых данных](https://gist.github.com/Tkachenko-Ivan/c2418a09c887e0baa0a823944d76e343) - показан алгоритм обработки новой дороги в Базе Данных
-  * в GitHub: репозиторий [shape-example-graphhopper](https://github.com/Tkachenko-Ivan/shape-example-graphhopper) - с примерами данных для загрузки и обработки, моделирует различные ситуации, описанные в публикации
+Пример переопределения источника данных в GraphHopper. 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=graphhopper-reader-postgis&show_owner=true)](https://github.com/Tkachenko-Ivan/graphhopper-reader-postgis)
+
+Это клон репозитория:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbasa&repo=graphhopper-reader-postgis&show_owner=true)](https://github.com/mbasa/graphhopper-reader-postgis)
+
+В своём клоне я много всего переделал "под себя", но это частности, поэтому Pull Request делать не стал, для Pull Request, я сделал отдельный Fork:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=graphhopper-reader-postgis-fork&show_owner=true)](https://github.com/Tkachenko-Ivan/graphhopper-reader-postgis-fork)
+
+Fork сделал, а Pull Request - нет, но ничего, может ещё доберусь... 
+
+Об этом репозитории написал публикацию [Как хранить сеть дорог в БД для построения маршрута?](https://habr.com/ru/articles/688556/), программа умеет считывать данные из некоторого источника и строить по ним граф дорог, для маршрутизации. Однако, помимо чтения эти данные необходимо как-то записывать, вторая часть моей публикации о том, как это сделать.
+
+Для того, чтобы можно было повторить, то, что написано в публикации подготовил:
+
+* Docker образ  с предзаполненной Базой Данных дорог, для тестирования маршрутизации и загрузки новых данных, Docker Hub: [road-data](https://hub.docker.com/r/tkachenkoivan/road-data)
+
+* Алгоритм обработки появления новой дороги в Базе Данных:
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=c2418a09c887e0baa0a823944d76e343)](https://gist.github.com/Tkachenko-Ivan/c2418a09c887e0baa0a823944d76e343)
+  
+* Репозиторий с примерами данных для загрузки и обработки, моделирует различные ситуации, описанные в публикации
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=shape-example-graphhopper)](https://github.com/Tkachenko-Ivan/shape-example-graphhopper)
+
 
 ## searchfonetic
 
