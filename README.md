@@ -1,6 +1,6 @@
 ### Всем привет 👋
 
-# Проекты
+# Репозитории
 
 Опишу что есть в моём профиле на GitHub, может он будет чем-то полезен.
 
@@ -92,6 +92,10 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 # Статистика по проектам
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkachenko-Ivan)](https://github.com/anuraghazra/github-readme-stats)
+
+# Примечание
+
+Свой профиль, т.е. этот файл, я оформил исключительно благодаря публикации: [Оформляем README-файл профиля на GitHub](https://habr.com/ru/articles/649363/), всем рекомендую.
 
 <!--
 **Tkachenko-Ivan/Tkachenko-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
