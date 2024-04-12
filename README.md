@@ -1,5 +1,11 @@
 ### Всем привет 👋
 
+|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tkachenko-Ivan&theme=nord_bright)|
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tkachenko-Ivan&theme=nord_bright)|
+
+
+
+
 # Репозитории
 
 Опишу что есть в моём профиле на GitHub, может он будет чем-то полезен.
