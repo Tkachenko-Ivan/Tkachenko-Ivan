@@ -1,14 +1,20 @@
-### Всем привет 👋
+### Рад приветствовать всех на моём профиле 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tkachenko-Ivan&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tkachenko-Ivan&theme=nord_bright)
+Меня зовут Иван, и я погромист, на всяких языках программирования: 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tkachenko-Ivan&theme=github)
 
+Похвастаться тем, что я очень активный пользователь GitHub, не могу:
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tkachenko-Ivan&theme=github)
+
+Но профиль существует уже давно, и здесь всё же скопилось несколько публичных репозиторев, вот, статистика не даст соврать:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkachenko-Ivan&theme=github)
+
+Поэтому опишу что есть в моём профиле на GitHub, может он будет чем-то полезен.
 
 # Репозитории
-
-Опишу что есть в моём профиле на GitHub, может он будет чем-то полезен.
 
 ## newsseacher
 
@@ -94,10 +100,6 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 Строит пространсвенный индекс для полилиний заданных координатами.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=Polylines)](https://github.com/Tkachenko-Ivan/Polylines)
-
-# Статистика по проектам
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkachenko-Ivan)](https://github.com/anuraghazra/github-readme-stats)
 
 # Примечание
 
