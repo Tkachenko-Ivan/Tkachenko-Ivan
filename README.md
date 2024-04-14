@@ -33,6 +33,8 @@
 
 ## graphhopper-reader-postgis
 
+![Static Badge](https://img.shields.io/badge/GIS-green)
+
 Пример переопределения источника данных в GraphHopper. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=graphhopper-reader-postgis&show_owner=true)](https://github.com/Tkachenko-Ivan/graphhopper-reader-postgis)
@@ -81,6 +83,8 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 
 ## hopper-illustration
 
+![Static Badge](https://img.shields.io/badge/GIS-green)
+
 Проект который я выложил в качестве иллюстрации к публикации [Как использовать GraphHopper для построения пешеходных маршрутов по собственным правилам](https://habr.com/ru/articles/545782/), именно поэтому он `illustration`, не более.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=hopper-illustration)](https://github.com/Tkachenko-Ivan/hopper-illustration)
@@ -89,6 +93,8 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 
 ## Geodesic
 
+![Static Badge](https://img.shields.io/badge/GIS-green)
+
 Решает прямую и обратную геодезические задачи, на сфере и на эллипсоиде вращения.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=Geodesic)](https://github.com/Tkachenko-Ivan/Geodesic) 
@@ -96,6 +102,8 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 Для решения задач на эллипсоиде использует [формулы Винсенти](https://en.wikipedia.org/wiki/Vincenty's_formulae). Но библиотеку я создавал не совсем для этого, а для того, чтобы находить точку пересечения двух [ортодромий](https://ru.wikipedia.org/wiki/Ортодромия) (ограниченных концами отрезка).
 
 ## Polylines
+
+![Static Badge](https://img.shields.io/badge/GIS-green)
 
 Строит пространсвенный индекс для полилиний заданных координатами.
 
