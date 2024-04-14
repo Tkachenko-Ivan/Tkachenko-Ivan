@@ -33,7 +33,7 @@
 
 ## graphhopper-reader-postgis
 
-![Static Badge](https://img.shields.io/badge/GIS-green)
+![Static Badge](https://img.shields.io/badge/GIS-yellowgreen)
 
 Пример переопределения источника данных в GraphHopper. 
 
@@ -83,7 +83,7 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 
 ## hopper-illustration
 
-![Static Badge](https://img.shields.io/badge/GIS-green)
+![Static Badge](https://img.shields.io/badge/GIS-yellowgreen)
 
 Проект который я выложил в качестве иллюстрации к публикации [Как использовать GraphHopper для построения пешеходных маршрутов по собственным правилам](https://habr.com/ru/articles/545782/), именно поэтому он `illustration`, не более.
 
@@ -93,7 +93,7 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 
 ## Geodesic
 
-![Static Badge](https://img.shields.io/badge/GIS-green)
+![Static Badge](https://img.shields.io/badge/GIS-yellowgreen)
 
 Решает прямую и обратную геодезические задачи, на сфере и на эллипсоиде вращения.
 
@@ -103,7 +103,7 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 
 ## Polylines
 
-![Static Badge](https://img.shields.io/badge/GIS-green)
+![Static Badge](https://img.shields.io/badge/GIS-yellowgreen)
 
 Строит пространсвенный индекс для полилиний заданных координатами.
 
