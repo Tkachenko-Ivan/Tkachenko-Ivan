@@ -109,6 +109,11 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=Polylines)](https://github.com/Tkachenko-Ivan/Polylines)
 
+# Публикации
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # Примечание
 
 Свой профиль, т.е. этот файл, я оформил исключительно благодаря публикации: [Оформляем README-файл профиля на GitHub](https://habr.com/ru/articles/649363/), всем рекомендую.
