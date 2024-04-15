@@ -109,7 +109,7 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkachenko-Ivan&repo=Polylines)](https://github.com/Tkachenko-Ivan/Polylines)
 
-# Публикации
+# Посты
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
