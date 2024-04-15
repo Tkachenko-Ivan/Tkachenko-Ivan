@@ -112,6 +112,11 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 # Посты
 
 <!-- BLOG-POST-LIST:START -->
+- [Геоданные без регистрации и СМС](https://habr.com/ru/articles/785254/?utm_campaign=785254&utm_source=habrahabr&utm_medium=rss)
+- [Признаюсь: я писал поддельный экран загрузки](https://habr.com/ru/articles/747224/?utm_campaign=747224&utm_source=habrahabr&utm_medium=rss)
+- [Бэкенд разработка и БДСМ. Страсти по именованию, или Как назвать отдел?](https://habr.com/ru/articles/700222/?utm_campaign=700222&utm_source=habrahabr&utm_medium=rss)
+- [Как хранить сеть дорог в БД для построения маршрута?](https://habr.com/ru/articles/688556/?utm_campaign=688556&utm_source=habrahabr&utm_medium=rss)
+- [Как Google подсунул нам котлеты и чуть не погубил проект. Почти юмористическая и почти детективная история одной ошибки](https://habr.com/ru/articles/650907/?utm_campaign=650907&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 # Примечание
