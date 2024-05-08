@@ -54,6 +54,10 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 Для того, чтобы можно было повторить, то, что написано в публикации подготовил:
 
 * Docker образ  с предзаполненной Базой Данных дорог, для тестирования маршрутизации и загрузки новых данных, Docker Hub: [road-data](https://hub.docker.com/r/tkachenkoivan/road-data)
+![Docker Image Size](https://img.shields.io/docker/image-size/tkachenkoivan/road-data) ![Docker Pulls](https://img.shields.io/docker/pulls/tkachenkoivan/road-data) ![Docker Stars](https://img.shields.io/docker/stars/tkachenkoivan/road-data)
+
+
+
 
 * Алгоритм обработки появления новой дороги в Базе Данных:
 
@@ -80,6 +84,10 @@ Fork сделал, а Pull Request - нет, но ничего, может ещ�
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=354db31938f7ed4218ac5d20c7f9502b)](https://gist.github.com/Tkachenko-Ivan/354db31938f7ed4218ac5d20c7f9502b)
 
   * Образ с индексами в Docker Hub: [tkachenkoivan/searchfonetic](https://hub.docker.com/r/tkachenkoivan/searchfonetic)
+![Docker Image Size](https://img.shields.io/docker/image-size/tkachenkoivan/searchfonetic) ![Docker Pulls](https://img.shields.io/docker/pulls/tkachenkoivan/searchfonetic) ![Docker Stars](https://img.shields.io/docker/stars/tkachenkoivan/searchfonetic)
+
+
+
 
 ## hopper-illustration
 
