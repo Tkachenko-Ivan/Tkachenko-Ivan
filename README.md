@@ -2,7 +2,7 @@
 
 Меня зовут Иван, и я погромист, на всяких языках программирования: 
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tkachenko-Ivan&theme=github)
 
 Похвастаться тем, что я очень активный пользователь GitHub, не могу:
 
